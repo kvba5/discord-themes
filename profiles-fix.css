@@ -8,5 +8,5 @@
  * @authorId 105170831130234880
 */
 .inner_c0bea0 {
-    background-color: var(--background-base-lowest) !important;
+    --bg-surface-overlay: var(--background-base-lowest);
 }
