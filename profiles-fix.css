@@ -1,0 +1,12 @@
+/**
+ * @name Profile Colors Fix
+ * @description Make profile colors match current theme (Desktop Visual Refresh)
+ * @author kb
+ * @version 1.0
+ * @website https://github.com/kvba5/discord-themes
+ * @source https://github.com/kvba5/discord-themes/blob/main/profiles-fix.css
+ * @authorId 105170831130234880
+*/
+.accountProfilePopoutWrapper__37e49 .inner_c0bea0 {
+    background-color: var(--background-base-lowest) !important;
+}
